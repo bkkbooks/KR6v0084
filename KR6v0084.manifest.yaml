@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0084/v1
 canonical_location: https://kanripo.org/bkk/KR6v0084/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 地藏菩薩十齋日
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 1, filename: KR6v0084_001.yaml, hash: 'sha256:4db4c559b73bdcc6cbec77855a3fcb0a1155b2fc3188dda471102e084cb8b2ed'}
+  - {seq: 1, filename: KR6v0084_001.yaml, hash: 'sha256:6fd331248537031f7f4695f1663ccf21215b2aaeb276a0aaa1713b4d231b2534'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0084_001.markers.yaml, hash: 'sha256:a6ae952b0a16efb82b6398db6a22275eb0f73ec29441c84d7daea8efa8854986'}
+  - {seq: 1, role: markers, filename: assets/KR6v0084_001.markers.yaml, hash: 'sha256:78f9d7da3db0c5699af7705f6e0dba77d138d6bc878280a86516b8e779d55161'}
 table_of_contents:
 - ref:
     seq: 1
@@ -55,4 +55,7 @@ table_of_contents:
   label: 附：關於《地藏菩薩十齋日》
   type: mulu
   level: 1
-hash: sha256:619136f2f9a5e5476a9a6b54db008dfb542eb42d40de7defacb370017667c1ca
+hash: sha256:43bb6859413d1825e37cb282d87833ba4e99273a51540a405561783b3ba5d039
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
